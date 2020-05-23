@@ -22,4 +22,4 @@ or
 ```
 streamlit run app.py
 ```
-If finding trouble to run then remove json  and pickle from the file requirements.txt and run again !
+If finding trouble, remove json & pickle from the file '''requirements.txt''' and run again !
