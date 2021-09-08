@@ -28,7 +28,7 @@ msgpack==1.0.0
 numpy==1.17.3
 pandas==1.0.3
 pathtools==0.1.2
-Pillow==8.1.1
+Pillow==8.3.2
 protobuf==3.12.1
 pynvim==0.4.1
 pyparsing==2.4.7
