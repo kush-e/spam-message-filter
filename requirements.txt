@@ -25,7 +25,7 @@ kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 msgpack==1.0.0
-numpy==1.17.3
+numpy==1.22.0
 pandas==1.0.3
 pathtools==0.1.2
 Pillow==8.1.1
